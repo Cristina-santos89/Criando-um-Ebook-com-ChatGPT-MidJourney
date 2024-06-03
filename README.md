@@ -21,12 +21,8 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema python, o ebook é do nicho de programação e o subnicho é de python o título deve curto e tenha uma temática impactante em português, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook, com foco em Python, listando as principais regras de funções com exemplos em código
+| conteúdo | Faça um texto para ebook, com foco em Python, listando as principais regras de funções com exemplos em código|
 
-{REGRAS}
+| Regras conteúdo | Explique sempre de uma maneira simples, Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais e Sempre deixe um título sugestivo por tópico | 
 
->Explique sempre de uma maneira simples
->Deixe o texto enxuto
->Sempre traga exemplos de código em contextos reais
->Sempre deixe um título sugestivo por tópico |
 
